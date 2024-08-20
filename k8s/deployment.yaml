@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: django
-        image: georgeao/django-app:v1.0.31
+        image: georgeao/django-app:v1.0.32
         ports:
         - containerPort: 8000
         env:
